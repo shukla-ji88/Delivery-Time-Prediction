@@ -1,0 +1,11 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.env
+.streamlit/secrets.toml
+
+# Original downloaded dataset
+data/raw/
+
