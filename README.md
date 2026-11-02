@@ -5,14 +5,6 @@ An end-to-end Machine Learning project that predicts food delivery time and iden
 
 Built using Python, Pandas, Scikit-learn and Streamlit.
 
-## 📌 Project Overview
-
-The objective of this project is to analyse food delivery operations, predict estimated delivery time and identify orders that may take longer than the expected operational threshold.
-
-The project includes two Machine Learning solutions:
-
-1. **Delivery Time Prediction:** Regression model to estimate delivery duration in minutes.
-2. **Delivery Risk Classification:** Classification model to identify normal and high delivery-time risk orders.
 
 ## 📌 Project Overview
 
