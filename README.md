@@ -14,6 +14,19 @@ The project includes two Machine Learning solutions:
 1. **Delivery Time Prediction:** Regression model to estimate delivery duration in minutes.
 2. **Delivery Risk Classification:** Classification model to identify normal and high delivery-time risk orders.
 
+## 📌 Project Overview
+
+The objective of this project is to analyse food delivery operations, predict estimated delivery time and identify orders that may take longer than the expected operational threshold.
+
+The project includes two Machine Learning solutions:
+
+1. **Delivery Time Prediction:** Regression model to estimate delivery duration in minutes.
+2. **Delivery Risk Classification:** Classification model to identify normal and high delivery-time risk orders.
+
+## 🌐 Live Demo
+
+👉 [Open Live Dashboard](https://india-delivery-time-prediction.streamlit.app/)
+
 ## 🎯 Project Objectives
 
 - Predict estimated food delivery time.
